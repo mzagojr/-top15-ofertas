@@ -1,0 +1,12 @@
+{
+  "name": "top15-ofertas-backend",
+  "version": "1.0.0",
+  "description": "Backend do TOP 15 OFERTAS",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
